@@ -23,6 +23,7 @@ docker-compose exec web python manage.py createsuperuser
 Swagger доступен по адресу:
 
 http://localhost:8000/api/docs
+
 Можно:
 
 Смотреть список маршрутов
@@ -52,3 +53,6 @@ POST /api/blog/posts — создать
 PUT /api/blog/posts/{id} — обновить
 
 DELETE /api/blog/posts/{id} — удалить
+
+Ссылка на бота: 
+@testovoe_quantum_bot
