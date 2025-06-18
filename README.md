@@ -12,7 +12,7 @@ PostgreSQL и Docker
 
 🚀 Быстрый старт
 1. Клонировать репозиторий
-git clone https://github.com/Altasso/weather-app.git
+git clone https://github.com/Altasso/test_quantum.git
 cd blog-api
 2. Запустить Docker
 docker-compose up --build
